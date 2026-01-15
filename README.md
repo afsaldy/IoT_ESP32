@@ -1,3 +1,7 @@
+## 🔧 Wiring Diagram
+
+![ESP32 Wiring Diagram](Skematik_Rangkaian.png)
+
 # ESP32 Environmental Monitoring System
 
 Proyek ini menggunakan **ESP32** sebagai pusat akuisisi data dari beberapa sensor lingkungan, termasuk sensor suhu & kelembapan, sensor partikel udara, komunikasi RS485, serta pembacaan sensor analog menggunakan multiplexer.
